@@ -1,0 +1,7 @@
+1. User post off -/
+2. Comment verify -/
+3. Favourite list -/
+4. Admin Planel-/
+5. Post image -/
+6. View Counts 
+7. Search option -/
